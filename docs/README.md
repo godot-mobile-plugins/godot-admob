@@ -114,7 +114,7 @@ Available show methods: `show_banner_ad(ad_id)`, `show_interstitial_ad(ad_id)`, 
 
 Explore the plugin documentation for a deep dive into features:
 
-- [https://godot-sdk-integrations.github.io/godot-admob](https://godot-sdk-integrations.github.io/godot-admob)
+- [https://godot-mobile-plugins.github.io/godot-admob](https://godot-mobile-plugins.github.io/godot-admob)
 
 <br>
 
